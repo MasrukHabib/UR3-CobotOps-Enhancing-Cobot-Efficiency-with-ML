@@ -38,7 +38,4 @@ The models were trained using a dataset from the **UCI Machine Learning Reposito
 - **Production Deployment**: Deploying the trained models in a production environment to enhance cobot operations.
 - **Reinforcement Learning**: Exploring reinforcement learning techniques for further optimization of cobot tasks and performance.
 
----
-
-## 🤖 About UR3 Cobot
-The UR3 is a lightweight, flexible collaborative robot (cobot) designed for tasks requiring precision and reliability. By integrating ML techniques, we aim to enhance its efficiency, reduce downtime, and improve overall performance.
+_Thank you 😊 
