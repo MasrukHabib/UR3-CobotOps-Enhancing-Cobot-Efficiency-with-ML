@@ -1,4 +1,4 @@
-# UR3 CobotOps - ML Techniques Implementation
+# UR3 CobotOps – Enhancing Cobot Efficiency with ML
 
 ## 📋 Overview
 This repository showcases the implementation of various Machine Learning (ML) techniques to enhance the functionality of the UR3 collaborative robot (cobot). The focus is on improving operational efficiency and enabling predictive maintenance.
